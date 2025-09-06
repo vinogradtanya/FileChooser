@@ -9,3 +9,8 @@ FileChooserListView представляет файловую систему в 
 FileChooserIconView представляет файловую систему в виде значков и текста.
 
 <img width="1000" height="455" alt="image" src="https://github.com/user-attachments/assets/e4b00c27-7829-4b68-bd92-4cffa8372a19" />
+
+Просмотр файлов - изображений
+
+<img width="1003" height="765" alt="image" src="https://github.com/user-attachments/assets/6af1c8ef-d8ee-48c4-8a9a-7f140f43ca4b" />
+
